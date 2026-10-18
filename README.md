@@ -16,7 +16,7 @@ Tres fuentes principales de información, relacionadas con usuarios, actividad y
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://github.com/sofiaduartea/telecom-analysis/blob/c867578a1189baee98b80a220b246fc88035e9d2/Telecom_analysis.ipynb)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/github/sofiaduartea/telecom-analysis/blob/c867578a1189baee98b80a220b246fc88035e9d2/Telecom_analysis.ipynb)
 
 O:
 
