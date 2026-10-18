@@ -3,9 +3,15 @@
 Este repositorio contiene el analisis realizado del caso ConnectaTel, una empresa de telecomunicaciones con operaciones en México y Colombia.
 
 Tres fuentes principales de información, relacionadas con usuarios, actividad y planes del servicio de telecomunicaciones:
-- plans.csv: Catálogo de planes con sus precios y beneficios. 
-- users_latam.csv: Información de cada usuario (datos personales, plan, fecha de registro, churn). 
-- usage.csv: Actividad generada por los usuarios: llamadas, mensajes, duración, longitud. 
+- plans.csv: Catálogo de planes con sus precios y beneficios. ( 2 filas, 8 columas)
+- users_latam.csv: Información de cada usuario (datos personales, plan, fecha de registro, churn). ( 4000 filas, 8 columas)
+- usage.csv: Actividad generada por los usuarios: llamadas, mensajes, duración, longitud. ( 40000 filas, 6 columas)
+
+## 🧠 Objetivo del análisis
+
+- Identificar problemas de calidad de datos
+- Comprender patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas
+- Generar insights, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
 ## 📂 Contenido del repositorio
 
@@ -28,9 +34,3 @@ O:
 1. Abre `telecom_analysis.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
-
-## 🧠 Objetivo del análisis
-
-- Identificar problemas de calidad de datos
-- Comprender patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas
-- Generar insights, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
