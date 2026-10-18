@@ -1,3 +1,5 @@
+## telecom-analysis
+
 Este repositorio contiene el analisis realizado del caso ConnectaTel, una empresa de telecomunicaciones con operaciones en México y Colombia.
 
 Tres fuentes principales de información, relacionadas con usuarios, actividad y planes del servicio de telecomunicaciones:
