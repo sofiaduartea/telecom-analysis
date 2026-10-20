@@ -13,6 +13,13 @@ Tres fuentes principales de información, relacionadas con usuarios, actividad y
 - Comprender patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas
 - Generar insights, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
+## 📊 Hallazgos y recomendaciones
+- *Calidad de datos:* 1% de fechas imposibles, 2.71% de ciudades con “?” y -999 en age. → Validar en el origen y auditar nulos cada mes.
+- *Perfil dominante:* Adulto ([~50]%) y Uso medio ([~72]%). → Diseñar la oferta principal para este perfil.
+- *Bajo uso:* [~19]% de los usuarios. → Reactivar con bonos y medir el paso a Uso medio.
+- *Alto uso:* [~8.5]% de los usuarios. → Fidelizar y evaluar su migración a Premium.
+- *Planes similares:* sin diferencias claras entre Básico y Premium. → Replantear la propuesta de valor de Premium.
+
 ## 📂 Contenido del repositorio
 
 - `telecom_analysis.ipynb`
